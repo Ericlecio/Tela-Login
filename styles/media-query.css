@@ -6,18 +6,19 @@
     }
 
     #login {
-        width: 80vw;
-
+        width: 58vw;
+        height: 250px;
     }
 
     #login>#imagem {
         float: left;
-        width: 30%;
+        width: 45%;
         height: 100%;
     }
 
     #login>#formulario {
         float: right;
+
     }
 }
 
@@ -28,6 +29,7 @@
 
     #login {
         width: 950px;
+        height: 300px ;
     }
 
     #login>#imagem {
